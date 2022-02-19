@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-prow/horologium:v20220217-9337753127

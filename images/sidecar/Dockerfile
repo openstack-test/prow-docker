@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-prow/sidecar:v20220217-9337753127

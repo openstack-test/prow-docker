@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-prow/initupload:v20220217-9337753127

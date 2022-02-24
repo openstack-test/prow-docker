@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-prow/git:v20220215-ddc3ad9

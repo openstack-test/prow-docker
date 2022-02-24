@@ -1,0 +1,1 @@
+FROM gcr.io/k8s-prow/alpine:v20211015-92dc282
